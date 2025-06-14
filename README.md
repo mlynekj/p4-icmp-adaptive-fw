@@ -4,7 +4,13 @@ School project: Implementation of simple adaptive firewall, reacting to number o
 
 The vSwitches are programmed using the P4 language, while the SDN controller is written in Python.
 
-Brief description of the project is below. More deatils are included in the *.pdf* file in the *latex* directory. Working demonstration is presented in the *.mkv* video file.
+Brief description of the project is below. More deatils are included in the *.pdf* file in the *latex* directory. Working demonstration is presented in the *.mkv* video file below.
+
+https://github.com/user-attachments/assets/fc96026a-05eb-4938-9dc2-7068c43d4682
+
+A prebuilt basic example `basic.p4` was used to implement the adaptive firewall. It consisted of the basic P4 programs, as well as basic network topology with 4 hosts and 4 switches.
+
+![image](https://github.com/user-attachments/assets/59503dc6-79fe-4470-aad8-73827c96c47f)
 
 ---
 
